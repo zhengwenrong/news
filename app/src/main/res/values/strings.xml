@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">news</string>
+    <string name="item_transition">item</string>
+    <string name="title">title</string>
+</resources>
